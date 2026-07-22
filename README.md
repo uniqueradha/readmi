@@ -6,10 +6,6 @@
 
 </div>
 
-```
-radha@devos ~ % ./profile.sh --live
-```
-
 <table>
 <tr>
 <td valign="top" width="45%">
