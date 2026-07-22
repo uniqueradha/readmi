@@ -30,13 +30,12 @@
 ### SYSTEM.INFO
 
 **radha@devos** ─────────────────
-
-- **Subject** ..... RADHA
-- **Role** .........B.Sc CS Student · Aspiring DevOps Engineer
-- **Origin** ...... Dharmapuri, Tamil Nadu, India
-- **Education** ....B.Sc. Computer Science, 2024 – Present
-- **Status** .......Learning • Practicing • Building
-- **Toolchain** ....Linux, Git, Docker, Terminal
+- **Subject** . RADHA
+- **Role**.B.Sc CS Student · Aspiring DevOps Engineer
+- **Origin**. Dharmapuri, Tamil Nadu, India
+- **Education**.B.Sc. Computer Science, 2024 – Present
+- **Status**.Learning • Practicing • Building
+- **Toolchain**.Linux, Git, Docker, Terminal
 
 &nbsp;
 
