@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="./dark.svg" width="100%" alt="Banner">
+</p>
 
 # RADHA / README.md
 
