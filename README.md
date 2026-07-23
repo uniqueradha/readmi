@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./light.svg" width="100%" alt="Banner">
+  <img src="./dark.svg" width="100%" alt="Banner">
 </p>
 
 # RADHA / README.md
